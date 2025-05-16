@@ -1,0 +1,22 @@
+{
+  "devDependencies": {
+    "@types/bcrypt": "^5.0.2",
+    "@types/bn.js": "^5.1.6",
+    "@types/connect": "^3.4.38",
+    "@types/cookie-parser": "^1.4.8",
+    "@types/jsonwebtoken": "^9.0.7",
+    "@types/lodash": "^4.17.14",
+    "@types/memory-cache": "^0.2.6",
+    "@types/node": "^22.10.5",
+    "@types/pbkdf2": "^3.1.2",
+    "@types/secp256k1": "^4.0.6",
+    "@types/zen-observable": "^0.8.7"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "dayjs": "^1.11.13",
+    "express": "^4.21.2",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.12.0"
+  }
+}
